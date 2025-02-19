@@ -38,7 +38,3 @@
     Soldering Kit (Optional, ~$10) – For permanent setups.
 
 Estimated Total: $20-$40
-
-This is enough for a basic wheeled robot that can move, avoid obstacles, or follow a line.
-
-Would you be interested in some project ideas with this setup?
