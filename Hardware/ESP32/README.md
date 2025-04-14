@@ -1,5 +1,6 @@
 # Directory to do just bout anything with an esp32
 Directory Breakdown:  
+
     -> Building, Flashing, and Monitoring the ESP32
     -> Using menuconfig to configure your project (frequencies, logging levels, flash sizes).
     -> Setting up the ESP Now Protocol
