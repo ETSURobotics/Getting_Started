@@ -1,4 +1,5 @@
 # Directory to do just bout anything with an esp32
+#### https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html
 Directory Breakdown:  
 
     -> Building, Flashing, and Monitoring the ESP32
