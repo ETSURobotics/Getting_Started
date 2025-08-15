@@ -1,5 +1,5 @@
 ## Directory for learning Raspberry Pi
-## Required Materials
+## Suggested Materials
 
 - Raspberry Pi 3/4/Zero (with microSD card)
 - Power supply (official recommended)
